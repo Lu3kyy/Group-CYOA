@@ -1,0 +1,50 @@
+/*simple background color*/
+body {
+    background-color: bisque;
+}
+
+/* simple code to align to center */
+.moveCenter {
+    text-align: center;
+}
+
+h3 { /*THIS WILL BE THE STORY TEXT FONT AND FONT SIZE*/
+text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+
+
+
+
+
+
+
+
+
+/*testing setup for answer links*/
+.answersBox {
+    border: 5px solid lightgray;
+    position: relative;
+}
+.answerBox {
+    width:5rem;
+    height:10rem;
+}
+
+.Answer1 {
+    position: absolute;
+    bottom:0;
+    right: 200px;
+
+}
+.Answer2 {
+    position: absolute;
+    right: 575px;
+
+}
+.Answer3 {
+    position:relative;
+    left:200px;
+}
