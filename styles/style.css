@@ -11,7 +11,7 @@ body {
 h3 { /*THIS WILL BE THE STORY TEXT FONT AND FONT SIZE*/
 text-align: center;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-
+font-size: 30px
 }
 
 
@@ -29,8 +29,8 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     position: relative;
 }
 .answerBox {
-    width:5rem;
-    height:10rem;
+    width:15rem;
+    height:6rem;
 }
 
 .Answer1 {
